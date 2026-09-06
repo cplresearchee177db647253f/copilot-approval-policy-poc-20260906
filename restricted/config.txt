@@ -1,1 +1,1 @@
-protected baseline
+restricted change after Copilot approval
